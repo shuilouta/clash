@@ -1,0 +1,59 @@
+# Slack domains
+DOMAIN-SUFFIX,slack.com
+DOMAIN-SUFFIX,slack-msgs.com
+DOMAIN-SUFFIX,slack-core.com
+DOMAIN-SUFFIX,slack-files.com
+DOMAIN-SUFFIX,slack-imgs.com
+DOMAIN-SUFFIX,slack-redir.net
+DOMAIN-SUFFIX,slackb.com
+DOMAIN-SUFFIX,slackcertified.com
+
+# JumpCloud domains
+DOMAIN-SUFFIX,jumpcloud.com
+DOMAIN-SUFFIX,jumpcloudusercontent.com
+
+# Salesforce Core Domains
+DOMAIN-SUFFIX,app.salesforceiq.com
+DOMAIN-SUFFIX,app-frankfurt.salesforceiq.com
+DOMAIN-SUFFIX,bluetail.salesforce.com
+DOMAIN-SUFFIX,force.com
+DOMAIN-SUFFIX,forceusercontent.com
+DOMAIN-SUFFIX,force-user-content.com
+DOMAIN-SUFFIX,salesforce.com
+DOMAIN-SUFFIX,salesforceliveagent.com
+DOMAIN-SUFFIX,salesforce-experience.com
+DOMAIN-SUFFIX,salesforce-hub.com
+DOMAIN-SUFFIX,salesforce-scrt.com
+DOMAIN-SUFFIX,salesforce-setup.com
+DOMAIN-SUFFIX,salesforce-sites.com
+DOMAIN-SUFFIX,sfdcopens.com
+DOMAIN-SUFFIX,site.com
+DOMAIN-SUFFIX,svc.sfdcfc.net
+DOMAIN-SUFFIX,trailblazer.me
+DOMAIN-SUFFIX,trailhead.com
+
+# Legacy Salesforce Domains
+DOMAIN-SUFFIX,documentforce.com
+DOMAIN-SUFFIX,lightning.com
+DOMAIN-SUFFIX,salesforce-communities.com
+DOMAIN-SUFFIX,sfdc.sh
+DOMAIN-SUFFIX,visualforce.com
+
+# Salesforce Mobile App Domains
+DOMAIN-SUFFIX,analytics.localytics.com
+DOMAIN-SUFFIX,manifest.localytics.com
+
+# Login Screen Content Domains
+DOMAIN-SUFFIX,sfdcstatic.com
+DOMAIN-SUFFIX,secure.eloqua.com
+DOMAIN-SUFFIX,doubleclick.net
+DOMAIN-SUFFIX,facebook.com
+DOMAIN-SUFFIX,google-analytics.com
+
+# Trailblazer Identity Login Screen Domains
+DOMAIN-SUFFIX,oktacdn.com
+DOMAIN-SUFFIX,okta.com
+DOMAIN-SUFFIX,lightningdesignsystem.com
+DOMAIN-SUFFIX,cookielaw.org
+DOMAIN-SUFFIX,onetrust.com
+DOMAIN-SUFFIX,googletagmanager.com 
