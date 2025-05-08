@@ -64,5 +64,6 @@ DOMAIN-SUFFIX,mermaid.live
 DOMAIN-SUFFIX,mermaid.ink
 DOMAIN-SUFFIX,mermaid.js.org
 
-# Atlassian Domain
+# Atlassian Domains
+DOMAIN-SUFFIX,atlassian.com
 DOMAIN-SUFFIX,atlassian.net
