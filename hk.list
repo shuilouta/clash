@@ -6,6 +6,7 @@ DOMAIN-SUFFIX,slack-files.com
 DOMAIN-SUFFIX,slack-imgs.com
 DOMAIN-SUFFIX,slack-redir.net
 DOMAIN-SUFFIX,slackb.com
+DOMAIN-SUFFIX,slack-edge.com
 DOMAIN-SUFFIX,slackcertified.com
 
 # JumpCloud domains
@@ -56,4 +57,9 @@ DOMAIN-SUFFIX,okta.com
 DOMAIN-SUFFIX,lightningdesignsystem.com
 DOMAIN-SUFFIX,cookielaw.org
 DOMAIN-SUFFIX,onetrust.com
-DOMAIN-SUFFIX,googletagmanager.com 
+DOMAIN-SUFFIX,googletagmanager.com
+
+# Mermaid Domains
+DOMAIN-SUFFIX,mermaid.live
+DOMAIN-SUFFIX,mermaid.ink
+DOMAIN-SUFFIX,mermaid.js.org 
