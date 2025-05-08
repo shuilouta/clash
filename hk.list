@@ -3,6 +3,9 @@ DOMAIN-SUFFIX,mermaid.live
 DOMAIN-SUFFIX,mermaid.ink
 DOMAIN-SUFFIX,mermaid.js.org
 
+# YouTube Domain
+DOMAIN-SUFFIX,youtube.com
+
 # Slack domains
 DOMAIN-SUFFIX,slack.com
 DOMAIN-SUFFIX,slack-msgs.com
