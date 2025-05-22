@@ -68,3 +68,6 @@ DOMAIN-SUFFIX,mermaid.js.org
 DOMAIN-SUFFIX,atlassian.com
 DOMAIN-SUFFIX,atlassian.net
 DOMAIN-SUFFIX,atl-paas.net
+
+# PyPI domain
+DOMAIN-SUFFIX,pypi.org
