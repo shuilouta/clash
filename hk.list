@@ -71,3 +71,4 @@ DOMAIN-SUFFIX,atl-paas.net
 
 # PyPI domain
 DOMAIN-SUFFIX,pypi.org
+DOMAIN-SUFFIX,files.pythonhosted.org
