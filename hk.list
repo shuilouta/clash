@@ -72,3 +72,9 @@ DOMAIN-SUFFIX,atl-paas.net
 # PyPI domain
 DOMAIN-SUFFIX,pypi.org
 DOMAIN-SUFFIX,files.pythonhosted.org
+
+# Google Services
+DOMAIN-KEYWORD,google
+DOMAIN-KEYWORD,gmail
+DOMAIN-KEYWORD,gstatic
+DOMAIN-KEYWORD,googleapis
